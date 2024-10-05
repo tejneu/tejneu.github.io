@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tejneu.github.io/VrI/sitemap.VrI.gz
